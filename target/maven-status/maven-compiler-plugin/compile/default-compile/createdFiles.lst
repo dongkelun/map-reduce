@@ -1,0 +1,11 @@
+com/dkl/mapreduce/job/MaxTemperatureDriver.class
+test/WordCount$Map.class
+com/dkl/conf/TestJunit.class
+test/URLCat.class
+test/WordCount.class
+com/dkl/mapreduce/reducer/MaxTemperatureReducer.class
+test/WordCount$Reduce.class
+test/MaxTemperatureMapper.class
+test/FileCopyWithProgress.class
+com/dkl/mapreduce/mapper/MaxTemperatureMapperTest.class
+test/FileSystemCat.class
